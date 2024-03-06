@@ -1,0 +1,8 @@
+.btnWrapper{
+    justify-content: flex-end;
+    align-items: center;
+    display: flex;
+    flex-direction: row;
+    gap: 30px;
+    padding: 2rem;
+}
